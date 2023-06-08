@@ -1,0 +1,4 @@
+#Wed Jun 07 08:07:34 NPT 2023
+base.0=D\:\\flutterPROJECT\\marksheet_generator\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
